@@ -43,7 +43,7 @@ from . src import reportCreator
 def main():
 
     # -------------------------------------------------------------------------
-    # This main function should only contain high-level code, executing the the
+    # This main function should only contain high-level code, executing the
     # steps required for the package's logic, and delegating implementation
     # details to the package's specialised modules in a top-down manner.
     #
